@@ -12,10 +12,13 @@
 [IT 개발자와 일할 때 필요한 모든 개발지식 By 그랩](https://www.grabbing.me/IT-A-to-Z-By-1e1fbc981b7c4c03ac44943085ac8304)
 - React 부분, 주차별 교육부분 참고할 것
 
+[Why every beginner front-dev should know public-subscribe pattern](https://itnext.io/why-every-beginner-front-end-developer-should-know-publish-subscribe-pattern-72a12cd68d44)
+- pub-sub, google map api 연동 demo등 상세
+- (https://rinae.dev/posts/why-every-beginner-front-end-developer-should-know-publish-subscribe-pattern-kr) => 이런 것도 있다.
 
 
 
-### 개발 시 참고 가이드 <a name = "Para1"></a>
+### 개발을 위한 가이드 <a name = "Para1"></a>
 ---
 [@Devme](https://recoderr.tistory.com/48?category=917407) 
 - React life cycle 부분 참고할 것
