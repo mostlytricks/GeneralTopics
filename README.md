@@ -1,7 +1,7 @@
 # GeneralTopics
 ### Table of Contents
-1. [향후 정독](#ToRead)
-2. [개발 시 참고 가이드](#Para1) 
+1. [참고용 모음](#ToRead)
+2. [개발 시 가이드](#Para1) 
 
 
 
