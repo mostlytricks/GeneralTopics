@@ -10,3 +10,6 @@
 ### 개발 시 참고 가이드
 [@Devme](https://recoderr.tistory.com/48?category=917407) 
 - React life cycle 부분 참고할 것
+[조급..모래성..](https://taesan94.tistory.com/178?category=424721)
+- javascript -> typescript -> react의 구현 철학 파악시 참고할 것
+- Closer 등의 이해 및 설계 철학
