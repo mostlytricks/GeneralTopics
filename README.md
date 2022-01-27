@@ -1,9 +1,13 @@
 # GeneralTopics
+### Purpose
+---
+- 읽을 거리, 참고할만한 페이지들의 정제 없는 모음집.
+- 대신 검책 규칙에 대해서는 보다 고민할 필요가.
+
 ### Table of Contents
 ---
 1. [참고용 모음](#ToRead)
 2. [개발 시 가이드](#Para1) 
-
 
 
 
