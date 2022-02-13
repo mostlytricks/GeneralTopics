@@ -30,3 +30,7 @@
 [조급..모래성..](https://taesan94.tistory.com/178?category=424721)
 - javascript -> typescript -> react의 구현 철학 파악시 참고할 것
 - Closer 등의 이해 및 설계 철학
+
+[별..](https://byul91oh.tistory.com/343?category=1010243)
+- 프런트엔드 부분 포괄 정리 잘되어있음
+- 2022.02
