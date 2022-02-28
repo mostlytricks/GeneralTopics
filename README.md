@@ -47,6 +47,6 @@
   => 랜딩 페이지 static으로 만드는 것도. 
   - [참고](https://velog.io/@miiunii/HTMLCSS-parallax-scrolling-2-구현) 
   - 이미지 참고용 [svg backgrounds](https://www.svgbackgrounds.com)
-  - 이미지 참고용 2 [parallax images](#라고 구글에 검색해)
+  - 이미지 참고용 2 [parallax images](https://www.freepik.com)
 - glass effect
 
