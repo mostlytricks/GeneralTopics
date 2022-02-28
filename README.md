@@ -50,3 +50,9 @@
   - 이미지 참고용 2 [parallax images](https://www.freepik.com)
 - glass effect
 
+- 모달은 리액트 포탈로
+  - [밸로퍼트](https://velog.io/@velopert/react-portals)
+
+- 리액트 라우터 v6(2021년) 
+  - [밸로퍼트+](https://velog.io/@velopert/react-router-v6-tutorial)
+
