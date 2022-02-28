@@ -2,7 +2,7 @@
 ### Purpose
 ---
 - 읽을 거리, 참고할만한 페이지들의 정제 없는 모음집.
-- 대신 검책 규칙에 대해서는 보다 고민할 필요가.
+- 대신 검색 규칙에 대해서는 보다 고민할 필요가.
 
 ### Table of Contents
 ---
@@ -34,3 +34,17 @@
 [별..](https://byul91oh.tistory.com/343?category=1010243)
 - 프런트엔드 부분 포괄 정리 잘되어있음
 - 2022.02
+
+
+### 디자인 영감 <a name = "Design"></a>
+---
+[뉴모피즘 및 2021년 트렌드](https://chaeyeon-chaeyeon.tistory.com/37)
+
+- 뉴모피즘예시 중 여러 ui 겹친 건, 그 아래 구글 박스 보고 클로닝 해보자
+  - 마우스 오버시에 화면 가운데 좌측으로 천천히 이동 => 다른 영역 0.8 black => 더 느리게 설명 or 미니페이지 소개. 
+  - 구글 검색은 개인 대시보드 홈으로 가져올만하다. 매우 깔끔한디.
+- 패럴랙스 스크롤   
+  => 랜딩 페이지 static으로 만드는 것도. 
+  - [참고](https://velog.io/@miiunii/HTMLCSS-parallax-scrolling-2-구현) 
+- glass effect
+
