@@ -56,3 +56,9 @@
 - 리액트 라우터 v6(2021년) 
   - [밸로퍼트+](https://velog.io/@velopert/react-router-v6-tutorial)
 
+
+### 기타 가져갈만한 기술 범주
+- gRPC / webflux
+- elastic search 
+- kafka
+
