@@ -61,4 +61,6 @@
 - gRPC / webflux
 - elastic search 
 - kafka
+- mlops (or devops, focus on data flow) : [fullstack](fullstackdeeplearning.com). [stanford](https://stanford-cs329s.github.io/)
+
 
