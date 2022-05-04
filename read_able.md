@@ -11,3 +11,13 @@
 
 > - 서버 코드를 보다가, '어, 있어야 할 게 왜 없지?'
 > - 그러나 놀라울 만큼 관심을 받지 못했습니다.
+
+
+- [Domain Logic? SQL? App에서 구현?](https://medium.com/inato/our-experience-using-sql-with-ddd-96c2024d435c)
+
+> hospital을 상속 받은 BaseHospital vs DB에서는 어떻게 저장하지의 관점
+> - 결국 DB에서 큰 하나의 테이블을 만들거면 똑같은거 아닌가? 고민하던 부분인데 비슷한 고민을 하고 있었다!
+> - single table에 nullable column 넣어서 flag/option을 주는 방법 : 역직렬화 시점에 어떤 타입인지 해석해야 하고 해석하는 코드를 구현해야 해서 복잡도 증가
+> - multi table : sql제약이 커지고 복잡해진다.
+
+> 그래서 DDD를 어떻게 썼느냐, 그냥 복잡한 쿼리를 감수하고 domain object를 통합하는데 사용한다. multi table 전략.
