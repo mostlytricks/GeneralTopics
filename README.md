@@ -35,6 +35,10 @@
 - 프런트엔드 부분 포괄 정리 잘되어있음
 - 2022.02
 
+[korea eagle](https://kogle.tistory.com/32)
+- hibernate 별도로 이식할 때 큰그림 잡기
+- 영상은 https://www.youtube.com/watch?v=JR7-EdxDSf0 참고, 1:00: 00 ~ mapping relations theory
+
 
 ### 디자인 영감 <a name = "Design"></a>
 ---
