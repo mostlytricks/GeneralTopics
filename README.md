@@ -10,6 +10,11 @@
 2. [개발 시 가이드](#Para1) 
 
 
+### ASAP
+---
+[모두의코딩](https://goodteacher.tistory.com/363?category=880880)
+- JPA 설치에 대해서 순차적이고 직관적인 안내
+- 기본 mybatis 기반 project에서 안정감 있게 migration 가능토록 안내 중
 
 ### 이후 참고를 위한 페이지들 <a name = "ToRead"></a>
 ---
