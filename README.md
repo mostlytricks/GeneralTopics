@@ -44,6 +44,11 @@
 - hibernate 별도로 이식할 때 큰그림 잡기
 - 영상은 https://www.youtube.com/watch?v=JR7-EdxDSf0 참고, 1:00: 00 ~ mapping relations theory
 
+[기억하는 노트](https://milenote.tistory.com/119)
+- JPA에 대한 상세 기록
+
+[SK planet academy - 토크ON세미나](https://www.youtube.com/watch?v=WfrSN9Z7MiA&list=PL9mhQYIlKEhfpMVndI23RwWTL9-VL-B7U)
+- JPA 1~8강
 
 ### 디자인 영감 <a name = "Design"></a>
 ---
