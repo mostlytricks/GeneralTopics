@@ -76,5 +76,12 @@
 - elastic search 
 - kafka
 - mlops (or devops, focus on data flow) : [fullstack](fullstackdeeplearning.com). [stanford](https://stanford-cs329s.github.io/)
-
+- [stackoverflow-survey-2022](https://survey.stackoverflow.co/2022/)
+  - 주의할만한 언어 : Rust, Elixir, Clojure, TypeScript, Julia, Python, Delphi, Go
+    - C#이 lisp, haskell, erlang, scala , java 보다 선호도가 높았다!   
+  - 웹개발: phoenix(?!), Svelte, Deno, asp.net core(?!?), next.js, react.js
+    - 서버위주 개발이 다시 돌아오나? asp.net core는 약간 놀랐고, next.js react에 서버사이드랜더링 추가하는 모듈로 알고 있었는데.. 
+  - 도구: Docker, Kubernetes, Terraform, Homebrew 
+    - 일단 쿠버네티스인걸로
+  
 
