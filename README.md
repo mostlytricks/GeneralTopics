@@ -70,6 +70,7 @@
 - 리액트 라우터 v6(2021년) 
   - [밸로퍼트+](https://velog.io/@velopert/react-router-v6-tutorial)
 
+---
 
 ### 기타 가져갈만한 기술 범주
 - gRPC / webflux
@@ -84,4 +85,11 @@
   - 도구: Docker, Kubernetes, Terraform, Homebrew 
     - 일단 쿠버네티스인걸로
   
+### 시험 준비 기록
+
+AZ-204
+[100sang](https://100sang.net/202)
+- 덤프를..외워라!
+- 프로그래밍 언어 선택을 하라 하지만 영향도는 낮다...!
+- drag & drop유형의 문제 유의!(3개 유형 순차적인 선택)
 
